@@ -27,12 +27,12 @@ class Client
             Thread receiveThread = new Thread(ReceiveMessages);
             receiveThread.Start();
 
-            Thread uiThread = new Thread(UpdateUI); // تحديث الواجهة في خيط منفصل
+            Thread uiThread = new Thread(UpdateUI);
             uiThread.Start();
 
             while (isRunning)
             {
-                Thread.Sleep(100); // الحفاظ على البرنامج يعمل
+                Thread.Sleep(100);
             }
         }
         catch (Exception ex)
@@ -50,14 +50,13 @@ class Client
     {
         while (isRunning)
         {
-            Console.Clear(); // مسح الشاشة
+            Console.Clear(); 
             Console.WriteLine("Welcome!");
             Console.WriteLine("\n1. Open chat");
             Console.WriteLine("2. Show unread messages");
             Console.WriteLine("3. Exit");
             Console.Write("Choose an option: ");
 
-            // انتظار المدخلات من المستخدم بشكل غير متزامن
             string option = Console.ReadLine();
 
             if (option == "1")
@@ -78,7 +77,7 @@ class Client
                 Console.WriteLine("Invalid option. Try again.");
             }
 
-            Thread.Sleep(500); // الانتظار نصف ثانية قبل التحديث التالي
+            Thread.Sleep(500); 
         }
     }
 
