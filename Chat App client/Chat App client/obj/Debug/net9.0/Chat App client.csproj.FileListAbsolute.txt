@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Chat App client\Chat App client\bin\Debug\net9.0\Chat App client.exe
+C:\Users\DELL\source\repos\Chat App client\Chat App client\bin\Debug\net9.0\Chat App client.deps.json
+C:\Users\DELL\source\repos\Chat App client\Chat App client\bin\Debug\net9.0\Chat App client.runtimeconfig.json
+C:\Users\DELL\source\repos\Chat App client\Chat App client\bin\Debug\net9.0\Chat App client.dll
+C:\Users\DELL\source\repos\Chat App client\Chat App client\bin\Debug\net9.0\Chat App client.pdb
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.dll
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\refint\Chat App client.dll
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.pdb
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\Chat App client.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Chat App client\Chat App client\obj\Debug\net9.0\ref\Chat App client.dll
