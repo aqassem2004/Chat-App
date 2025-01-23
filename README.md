@@ -47,11 +47,3 @@ This project is a simple chat application built using C#. It consists of a serve
 2. Run multiple instances of the client application.
 3. Register each client with a unique phone number.
 4. Send messages between clients using the provided menu options.
-
-## Future Improvements
-- Implement message encryption for secure communication.
-- Add a graphical user interface (GUI) for better usability.
-- Enhance error handling and logging mechanisms.
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
